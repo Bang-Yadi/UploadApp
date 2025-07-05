@@ -1,0 +1,26 @@
+[
+    {
+        "name": "DramaBox",
+        "description": "Aplikasi buat liat drama short, mod nya sudah VIP dan Tanpa Login Akun :)",
+        "packageName": "com.storymatrix.drama",
+        "version": "3.8.1",
+        "downloadUrl": "https://t.me/+I-bDRewpOg4yZWFl",
+        "iconUrl": "https://play-lh.googleusercontent.com/dYAF42EhNGgGhC7nLHNSZkWs11W5Dv0mRWZBv6IgLDTh3l8eolsjeAVGg-HVHt9YWyA=w480-h960-rw"
+    },
+    {
+        "name": "Loklok",
+        "description": "Ini adalah aplikasi Loklok dengan varian package name com.tarparos.phigaea, untuk mod nya tersedia secara terpisah untuk armv7 dan arm64, jadi silakan download sesuai dengan arm yang didukung hp kamu...",
+        "packageName": "com.tarparos.phigaea",
+        "version": "3.10.0",
+        "downloadUrl": "https://modded-by-yadi.blogspot.com/2025/04/Loklok.html",
+        "iconUrl": "https://play-lh.googleusercontent.com/ZOfro7mMf8aYaGbe3dQleXGBbHYVAPjvSHqX9mFTlpr-o9Qp1Ci33k4D0MQjGgTdnqM=w480-h960-rw"
+    },
+    {
+        "name": "MovieBox (base Loklok)",
+        "description": "Ini sebenarnya juga loklok namun dikemas dalam aplikasi MovieBox, beberapa fitur dipangkas, namun ada kelebihan seperti unlock all episode dalam shorts dan bisa digunakan tanpa wajib login.",
+        "packageName": "com.quione.glacio",
+        "version": "1.0.2",
+        "downloadUrl": "https://www.mediafire.com/folder/ih0m36h48jwdf/MovieBox",
+        "iconUrl": "https://play-lh.googleusercontent.com/IHq4A19RgdkgX8kzVZ3V7fGoJnWfx2j5SHqiha7sDrT2u9wXN34x1zamV2n-gPjivSBK=w480-h960-rw"
+    }
+]
