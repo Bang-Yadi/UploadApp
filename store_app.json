@@ -9,7 +9,7 @@
     },
     {
         "name": "Loklok",
-        "description": "Ini adalah aplikasi Loklok dengan varian package name com.tarparos.phigaea, untuk mod nya tersedia secara terpisah untuk armv7 dan arm64, jadi silakan download sesuai dengan arm yang didukung hp kamu...",
+        "description": "<p>Ini adalah aplikasi Loklok dengan varian package name <b>com.tarparos.phigaea</b>, untuk mod nya tersedia secara terpisah untuk armv7 dan arm64, jadi silakan download sesuai dengan arm yang didukung hp kamu :)</p>",
         "packageName": "com.tarparos.phigaea",
         "version": "3.10.0",
         "downloadUrl": "https://modded-by-yadi.blogspot.com/2025/04/Loklok.html",
@@ -22,5 +22,13 @@
         "version": "1.0.2",
         "downloadUrl": "https://www.mediafire.com/folder/ih0m36h48jwdf/MovieBox",
         "iconUrl": "https://play-lh.googleusercontent.com/IHq4A19RgdkgX8kzVZ3V7fGoJnWfx2j5SHqiha7sDrT2u9wXN34x1zamV2n-gPjivSBK=w480-h960-rw"
+    },
+    {
+        "name": "StreamFlix",
+        "description": "<p>Aplikasi buat stream film atau beberapa drama secara gratis dengan pilihan server video dan ad juga subtitle jika tersedia...</p>",
+        "packageName": "com.ajpro.streamflixapp",
+        "version": "93",
+        "downloadUrl": "https://t.me/+I-bDRewpOg4yZWFl",
+        "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU=w480-h960-rw"
     }
 ]
